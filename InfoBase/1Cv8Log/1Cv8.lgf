@@ -38,4 +38,7 @@ b98ce25d-a2be-4d88-97d3-5b1301e31a39
 {4,"_$Data$_.Post",16},
 {5,0145e349-239c-4ddc-a039-4a03e2d83ed2,"Справочник.Сотрудники",2},
 {5,2e0d62e2-a807-4ed8-83cb-0c9d95e92852,"Документ.ЗаказНаярд",8},
-{4,"_$Transaction$_.Rollback",17}
+{4,"_$Transaction$_.Rollback",17},
+{4,"_$Job$_.Start",18},
+{4,"_$Job$_.Finish",19},
+{4,"_$Job$_.Cancel",20}
